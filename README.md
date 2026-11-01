@@ -59,7 +59,9 @@ This project analyses retail sales data to identify business trends, evaluate pr
 ## Power BI Dashboard
 
 ### Executive Overview
-![Executive Overview](PowerBI/Dashboard_Screenshots/Executive_Overview.PNG)
+
+![Executive Overview](Power%20bi/Dashboard%20screenshots/Executive%20Overview.PNG)
 
 ### Product Performance
-![Product Performance](PowerBI/Dashboard_Screenshots/Product_Performance.PNG)
+
+![Product Performance](Power%20bi/Dashboard%20screenshots/Product%20Performance.PNG)
