@@ -60,7 +60,8 @@ This project analyses retail sales data to identify business trends, evaluate pr
 
 ### Executive Overview
 
-![Executive Overview](https://github.com/RaghavSharma42/Retail-Business-Analytics/blob/main/Power%20bi/Dashboard%20screenshots/Executive%20Overview.PNG?raw=true)
+![Executive Overview](https://github.com/RaghavSharma42/Retail-Business-Analytics/blob/main/Power%20bi/Dasboard%20screenshots/Executive%20Overview.PNG)
+
 
 ### Product Performance
 
