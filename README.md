@@ -50,6 +50,12 @@ This project analyses retail sales data to identify business trends, evaluate pr
 
 ## Business Recommendations
 
+1. **Regional Strategy:** Investigate the products driving sales in the West and maintain adequate inventory. Examine demand and stock levels in the South to reduce potential overstocking.
+2. **Technology Products:** Prioritise high-demand Technology products with healthy profit margins and maintain sufficient inventory.
+3. **Binders:** Maintain adequate inventory of Binders and explore targeted promotions to strengthen sales.
+4. **Product Profitability:** Evaluate product margins alongside revenue when making pricing, discounting, and inventory decisions.
+5. **Profitability Improvement:** Analyse the factors behind the strong 2017 profit margin and apply successful strategies to improve future performance.
+
 ## Power BI Dashboard
 
 ### Executive Overview
@@ -57,8 +63,3 @@ This project analyses retail sales data to identify business trends, evaluate pr
 
 ### Product Performance
 ![Product Performance](PowerBI/Dashboard_Screenshots/Product_Performance.PNG)
-1. **Regional Strategy:** Investigate the products driving sales in the West and maintain adequate inventory. Examine demand and stock levels in the South to reduce potential overstocking.
-2. **Technology Products:** Prioritise high-demand Technology products with healthy profit margins and maintain sufficient inventory.
-3. **Binders:** Maintain adequate inventory of Binders and explore targeted promotions to strengthen sales.
-4. **Product Profitability:** Evaluate product margins alongside revenue when making pricing, discounting, and inventory decisions.
-5. **Profitability Improvement:** Analyse the factors behind the strong 2017 profit margin and apply successful strategies to improve future performance.
